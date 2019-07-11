@@ -20,6 +20,12 @@ interface TestServiceInterface
      */
     public function log();
 
+    /**
+     * 写日志
+     * @return mixed
+     */
+    public function writeLog();
+
 
 
 }
