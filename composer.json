@@ -3,6 +3,7 @@
     "description": "service components",
     "type": "library",
     "license": "MIT",
+    "homepage": "https://github.com/huanggenghuai/service-components",
     "authors": [
         {
             "name": "huanggenghuai",
